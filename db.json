@@ -1,0 +1,18 @@
+{
+    "coin": {
+        "userInfo":{
+            "isLogin":true,
+            "hasCoin":true,
+            "coin_point":110,
+            "is_wt5":true
+        }
+    },
+    "invite": {
+        "userInfo": {
+            "status_ok":true,
+            "user_id":131226,
+            "is_wt5":true,
+            "link":"KKuTYUU"
+        }
+    }
+}
